@@ -38,7 +38,7 @@ export function Navbar() {
 
         {/* Logo */}
         <Link to="/" className="flex-shrink-0">
-          <img src={logo} alt="Brand Store Warud" className="h-10 w-auto" width={80} height={40} />
+          <img src={logo} alt="Brand Store" className="h-14 w-auto" width={120} height={56} />
         </Link>
 
         {/* Desktop nav */}
